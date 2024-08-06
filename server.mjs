@@ -8,7 +8,7 @@ const port = 3000;
 const app = express();
 
 const corsOptions = {
-    origin: 'http://localhost:5173',
+    origin: 'https://nimble-test-sand.vercel.app',
     optionsSuccessStatus: 200,
 };
 
